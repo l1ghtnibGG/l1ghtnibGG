@@ -19,7 +19,7 @@
 
 ### About
 - :books: I'm currently learning **.NET, React**
-- :adult: Know about my experiences [CV](https://disk.yandex.ru/i/MsCsu_PzuDRolQ)
+- :adult: Know about my experiences [CV](https://disk.yandex.ru/i/Fi3r23sIli1fEA)
 - :earth_africa: I speak Russian, English, Belarusian.
 
 
