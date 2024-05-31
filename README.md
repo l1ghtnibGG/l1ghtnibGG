@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi, there. I'm Vlad</h1>
-    <h3>Full Stack Developer</h3>
+    <h3>Backend Developer</h3>
 </div>
 
 
@@ -18,7 +18,7 @@
 
 
 ### About
-- :books: I'm currently learning **.NET, React**
+- :books: .NET, currently studying Angular
 - :adult: Know about my experiences [CV](https://disk.yandex.ru/i/Fi3r23sIli1fEA)
 - :earth_africa: I speak Russian, English, Belarusian.
 
