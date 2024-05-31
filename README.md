@@ -5,9 +5,9 @@
 
 
 <div id="social" align="center">
-    <a href="https://www.linkedin.com/in/vladislav-kruglikov-a10b05184/">
+    <!--<a href="https://www.linkedin.com/in/vladislav-kruglikov-a10b05184/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white%20" alt="LinkedIn"/>
-    </a>
+    </a>-->
     <a href="mailto:vladislavkrglikov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white%20" />
     </a>
